@@ -1,11 +1,14 @@
-# Learning Policies
+# Third Project - Reinforcement Learning
 
 The objective of this assignment is to experiment with reinforcement learning algorithms to get the value function.
 
 ## Algorithms
 SARSA
+
 Q-Learning
+
 Gradient Monte Carlo
+
 Semi-gradient TD(0)
 
 ### Requirements
